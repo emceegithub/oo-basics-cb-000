@@ -7,8 +7,6 @@ class Book
     return @title
   end
   
-  def author
-    return @author
-  end
+  attr_accessor :author
   
 end
