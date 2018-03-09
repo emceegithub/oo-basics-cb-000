@@ -7,4 +7,8 @@ class Book
     return @title
   end
   
+    def title
+    return @title
+  end
+  
 end
