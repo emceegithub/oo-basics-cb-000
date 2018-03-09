@@ -7,8 +7,8 @@ class Book
     return @title
   end
   
-    def title
-    return @title
+  def author_name
+    return @author_name
   end
   
 end
